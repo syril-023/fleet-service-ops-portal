@@ -104,3 +104,7 @@ set_password.py     Admin helper for setting passwords from the command line
 ## My role
 
 I designed and built the whole portal on my own as the business analyst on the service team. That covered gathering requirements from service managers and store in-charges, modelling the data, building the integrations with the existing Google Forms and Excel files, deploying it, and rolling it out module by module.
+
+---
+
+© 2026 Jacsun Maria Syril. All rights reserved. Shared for portfolio viewing only — not licensed for reuse.
