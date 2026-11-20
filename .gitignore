@@ -1,0 +1,27 @@
+# Secrets — NEVER commit
+.streamlit/secrets.toml
+initial_passwords.txt
+.env
+
+# Database dumps with real data
+db/*_data.sql
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Claude Code local config
+.claude/
+.streamlit/supabase.toml
+
+# customer data files dropped in the folder (e.g. chassis lists) - never to GitHub
+/*.xlsx
+/*.xls
+/*.csv
